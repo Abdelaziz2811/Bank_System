@@ -43,10 +43,10 @@ This **Bank System** is a Windows Forms application developed in **C# .NET** wit
 ---
 
 ## 📷 Screenshots  
-📌 *(<Screenshots/Screenshot 2025-04-03 095622.png>)*  
-📌 *(<Screenshots/Screenshot 2025-04-03 095646.png>)*  
-📌 *(<Screenshots/Screenshot 2025-04-03 095708.png>)*  
-📌 *(<Screenshots/Screenshot 2025-04-03 095744.png>)*  
+![Screenshot 1](Screenshots/Screenshot%202025-04-03%20095622.png)
+![Screenshot 2](Screenshots/Screenshot%202025-04-03%20095646.png)
+![Screenshot 3](Screenshots/Screenshot%202025-04-03%20095708.png)
+![Screenshot 4](Screenshots/Screenshot%202025-04-03%20095744.png)
 
 ---
 
