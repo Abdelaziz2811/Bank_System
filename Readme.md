@@ -71,13 +71,11 @@ Make sure you have the following installed:
 3. **Configure the Database Connection**
  
  📌 Before running the project, ensure the database connection is properly configured.
-
+  
   - Windows Authentication:
-   
    No changes are needed if you're using Windows Authentication.
 
   - SQL Server Authentication:
-  
   If you prefer SQL Server Authentication, edit the connection string in the DALSettings.cs in BankSytem_DAL layer of the project:
     ```sh
     public static string ConnectionString { get; } = "Server = .; Database = Bank_SystemDB; User ID = YOUR_USER_ID; Password = YOUR_PASSWORD";
