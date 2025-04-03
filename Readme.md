@@ -59,8 +59,9 @@ Make sure you have the following installed:
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/Abdelaziz2811
+   git clone https://github.com/Abdelaziz2811/Bank_System.git
 
 2. **Restore the Database using SSMS**
+    ```sh
     RESTORE DATABASE BankSystem
     FROM DISK = 'C:\Path\To\DataBase_Project\Bank_SystemDB.bak'
